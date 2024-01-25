@@ -18,10 +18,10 @@
 ## :pushpin: Projects
 ### 1. [포트폴리오](https://github.com/2023-SMHRD-IS-AI1/RepoUp)
 >나의 프론트엔드 포트폴리오 (개인 프로젝트)  
->개발 기간: 2023.12.?? ~ 2024.01.24.  
+>개발 기간: 2023.12.15 ~ 2024.01.24.  
 >  
 >기술 스택:  
->Java 8 / Spring / ? / Spring Data JPA / 
+>Java 1.6 / Springframework 5.0.7 / ? / Spring Data JPA / 
 >? / MySQL / Spring Security / ? / ? / 
 >  
 >[프로젝트 상세 설명](https://github.com/2023-SMHRD-IS-AI1/RepoUp) 참고
