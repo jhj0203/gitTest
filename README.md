@@ -1,10 +1,10 @@
 # 정현지 포트폴리오
->캐치 프레이즈 ( 나를 보여줄 수 있는 한마디 )
-2
+> 호기심이 많고 추상적인 사고를 제대로 갖춘 문과출신 개발자
 </br>
 
 ## :pushpin: Intro
-(여기에 자기 소개)
+개발세계에서 드문 E성향을 가졌고 상상력과 실행력도 뛰어난 개발자 지망생입니다.
+뭐든 빠르게 수용하는 자세를 가졌습니다.
 
 </br>
 
@@ -18,11 +18,11 @@
 ## :pushpin: Projects
 ### 1. [포트폴리오](https://github.com/2023-SMHRD-IS-AI1/RepoUp)
 >나의 프론트엔드 포트폴리오 (개인 프로젝트)  
->개발 기간: 2023.10.01 ~ 2023.11.05  
+>개발 기간: 2023.12.?? ~ 2024.01.24.  
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>Java 8 / Spring / ? / Spring Data JPA / 
+>? / MySQL / Spring Security / ? / ? / 
 >  
 >[프로젝트 상세 설명](https://github.com/2023-SMHRD-IS-AI1/RepoUp) 참고
 
