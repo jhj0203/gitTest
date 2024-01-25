@@ -21,7 +21,7 @@
 >개발 기간: 2023.12.15 ~ 2024.01.24.  
 >  
 >기술 스택:  
->Java 1.6 / Springframework 5.0.7 / MySQL / ? / 
+>Java 1.6 / Springframework 5.0.7 / MySQL 5.1 / Apache Tomcat 8.5 / 
 >? / ? / ? / ? / ? / 
 >  
 >[프로젝트 상세 설명](https://github.com/2023-SMHRD-IS-AI1/RepoUp) 참고
