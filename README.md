@@ -24,19 +24,7 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [패션 트렌드 분석 대시보드](https://github.com/2023-SMHRD-IS-AI1/RepoUp)
->2·30대 여성을 타겟으로 한 패션 트렌드 분석 대시보드 (팀 프로젝트)  
->개발 기간: 2023.12.15 ~ 2024.01.24.  
->  
->기술 스택:  
->Java 1.6 / Springframework 5.0.7 / MySQL 5.1 / Apache Tomcat 8.5 / 
->JavaScript / HTML / CSS
->  
->[프로젝트 상세 설명](https://github.com/2023-SMHRD-IS-AI1/RepoUp) 참고
-
----
-
-### 2. [LLM 서비스 평가·개선도구 및 기획서 생성 LLM 서비스](https://github.com/Gosegu2024/Surdream.git)
+### 1. [LLM 서비스 평가·개선도구 및 기획서 생성 LLM 서비스](https://github.com/Gosegu2024/Surdream.git)
 >웹사이트 기반 작문 LLM 서비스 평가·개선도구 및 프로젝트 기획서 생성 LLM 서비스 (팀 프로젝트)  
 >개발 기간: 2024.03.15 ~ 2024.04.15  
 >  
@@ -45,6 +33,18 @@
 >MongoDB / MySQL / Oracle / Spring Security / JavaScript / HTML / CSS
 >  
 >[프로젝트 상세 설명](https://github.com/Gosegu2024/Surdream.git) 참고
+
+---
+
+### 2. [패션 트렌드 분석 대시보드](https://github.com/2023-SMHRD-IS-AI1/RepoUp)
+>2·30대 여성을 타겟으로 한 패션 트렌드 분석 대시보드 (팀 프로젝트)  
+>개발 기간: 2023.12.15 ~ 2024.01.24.  
+>  
+>기술 스택:  
+>Java 1.6 / Springframework 5.0.7 / MySQL 5.1 / Apache Tomcat 8.5 / 
+>JavaScript / HTML / CSS
+>  
+>[프로젝트 상세 설명](https://github.com/2023-SMHRD-IS-AI1/RepoUp) 참고
 
 ---
 
