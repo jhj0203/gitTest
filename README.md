@@ -37,7 +37,7 @@
 
 ---
 
-### 2. [두 번째 프로젝트](깃허브 링크적기)
+### 2. [두 번째 프로젝트](https://github.com/Gosegu2024/Surdream.git)
 >두 번째 프로젝트 간략 소개  (팀 프로젝트)  
 >개발 기간: 2024.03.18 ~ 2024.04.15  
 >  
@@ -45,7 +45,7 @@
 >Java 11 / Spring Boot / Gradle / Spring framework / Python  
 >MongoDB / MySQL / Oracle / Spring Security / JavaScript / HTML / CSS
 >  
->[프로젝트 상세 설명](깃허브 링크적기) 참고
+>[프로젝트 상세 설명](https://github.com/Gosegu2024/Surdream.git) 참고
 
 ---
 
