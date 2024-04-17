@@ -1,5 +1,6 @@
 # 호기심과 유연한 사고로 개발 흐름 파악을 좋아하는 개발자
 > 외향적인 성향을 가졌고 상상력과 실행력이 뛰어난 개발자입니다.<br>
+![전자서명](https://github.com/jhj0203/Portfolio/blob/master/%EC%A0%95%ED%98%84%EC%A7%80_%EC%A0%84%EC%9E%90%EC%84%9C%EB%AA%85.png)
 </br>
 
 ## :pushpin: Intro
