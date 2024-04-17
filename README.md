@@ -11,7 +11,6 @@
 
 ## :pushpin: Contact
 - 이메일: jhj990203@gmail.com
-- 블로그: 
 - 깃헙: https://github.com/jhj0203
 
 </br>
