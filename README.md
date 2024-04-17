@@ -31,7 +31,7 @@
 >  
 >기술 스택:  
 >Java 1.6 / Springframework 5.0.7 / MySQL 5.1 / Apache Tomcat 8.5 / 
->JavaScript / HTML / CSS /
+>JavaScript / HTML / CSS
 >  
 >[프로젝트 상세 설명](https://github.com/2023-SMHRD-IS-AI1/RepoUp) 참고
 
@@ -49,12 +49,3 @@
 
 ---
 
-### 3. [세 번째 프로젝트](깃허브 링크적기)
->세 번째 프로젝트 간략 소개  (개인 프로젝트)  
->개발 기간: 2018.1.18 ~ 2018.4.5  
->  
->기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
->  
->[프로젝트 상세 설명](깃허브 링크적기) 참고
