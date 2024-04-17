@@ -38,7 +38,7 @@
 
 ### 2. [두 번째 프로젝트](https://github.com/Gosegu2024/Surdream.git)
 >두 번째 프로젝트 간략 소개  (팀 프로젝트)  
->개발 기간: 2024.03.18 ~ 2024.04.15  
+>개발 기간: 2024.03.15 ~ 2024.04.15  
 >  
 >기술 스택:  
 >Java 11 / Spring Boot / Gradle / Spring framework / Python  
