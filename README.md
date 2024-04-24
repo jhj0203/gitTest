@@ -25,8 +25,7 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [LLM 서비스 평가·개선도구_해드림](https://github.com/Gosegu2024/Haedream.git)
-###  [기획서 생성 LLM 서비스_써드림](https://github.com/Gosegu2024/Surdream.git)
+### 1. [LLM 서비스 평가·개선도구_해드림](https://github.com/Gosegu2024/Haedream.git)&[기획서 생성 LLM 서비스_써드림](https://github.com/Gosegu2024/Surdream.git)
 >웹사이트 기반 작문 LLM 서비스 평가·개선도구 및 프로젝트 기획서 생성 LLM 서비스 (팀 프로젝트)  
 >개발 기간: 2024.03.15 ~ 2024.04.15
 >
